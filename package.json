@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "apollo-server-micro": "^2.13.1",
+    "emotion-theming": "^10.0.27",
     "next": "9.4.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-query": "^1.5.2",
+    "react-query-devtools": "^1.1.5"
   }
 }
